@@ -1,4 +1,4 @@
-Hello everyone at HashStack.Finance !
+Hello everyone at HashStack.Finance ! 
 
 As part of my Assignment I was given the task to implement the "Diamond Standard upgradibility".
 
