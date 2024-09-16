@@ -1,6 +1,6 @@
 # Diamond_Standard_upgradibility by Shreyash
 
-Hello everyone at hashnode !
+Hello everyone at !
 
 As part of my Assignment I was given the task to implement the "Diamond Standard upgradibility".
 
